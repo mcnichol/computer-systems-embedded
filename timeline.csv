@@ -1,0 +1,20 @@
+id,date,description,subject,dependent event,completeness,location
+1,18340000,Analytical Difference Engine,Charles Babbage,null,5,Cambridge
+2,19650000,Moores Law on Transistor Density coined,Gordon Moore,null,5,United States
+3,19430000,Colossus computer at Bletchley Park;Arguably first electronic programmable computer,Tommy Flowers;Alan Turing,null,5,Bletchley Park
+4,20000000,remaining Colossus computer documents declassified and revealed work,Great Britain,3,5,Europe
+5,19440000,ENIAC operational,null,null,1,United States
+6,00000000,Ada Lovelace writes first program for Analytical Difference Engine,Ada Lovelace,1,1,Europe
+7,19410000,Electrical computer based on relays ZUSE,Konrad Zuse,null,1,Germany
+8,19410000,Atanasoff-Berry electronic computer created at Iowa State,null.null,1,Iowa
+9,19480000,Transistor invented at Bell Labs,William Shockley,null,1,New Jersey
+10,19480000,SSEM (Baby) Epectronic computer,null,null,1,Manchester
+11,19510000,MIT Whirlwind I Realtime I/O Computer,Jay Forrester,null,1,Boston
+12,19530000,Transistorized computer,null,null,1,Manchester
+13,19710000,Intel 4004 CPU mass market CPU and IC,null,null,1,California
+14,19790000,Sinclair ZX-79 kass market home computer,null,null,1,Cambridge
+15,19810000,IBM PC,null,null,1,New York
+16,19870000,ARM based Acorn A400 home computer with RISC CPU,null,null,1,Cambridge
+17,19900000,IBM RS6000 CPU Superscalar RISC processor,null,null,1,New York
+18,19980000,Sun picoJAVA CPU computer based on a language,null,null,1,California
+19,20170600,Barcelona Supercomputer Center becomes operational,null,null,1,Barcelona
